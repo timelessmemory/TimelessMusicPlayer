@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#00FFFF</color>
+    <color name="green">#00FF66</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="divider_color">#BFEFFF</color>
+</resources>
